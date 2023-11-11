@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LogiPV
-- 👀 I’m interested in coding with c, c++, python, HTML, javascript, SQL, & math
-- 🌱 I’m currently learning computer science
+- 👋 Hi, I’m @kangwa Ntema
+- 👀 I’m interested in coding with HTML, css, javascript, react, SQL, & math
+- 🌱 I’m currently learning Fullstack Web Development
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me: entema652@gmail.com
 
