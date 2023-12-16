@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kangwa Ntema
 - 👀 I’m interested in coding with HTML, css, scss, javascript & react.js
-- 🌱 I’m currently learning Fullstack Web Development
+- 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me: entema652@gmail.com
 
