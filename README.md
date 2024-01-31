@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kangwa Ntema
-- 👀 I’m interested in coding with HTML, CSS,SASS, SCSS, Bootstrap, JQuery Javascript & React.JS
+- 👀 I’m interested in coding with HTML, CSS,SASS, SCSS, Bootstrap, Javascript, JQuery & React.JS
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me: 
